@@ -16,7 +16,7 @@ Create the log directories
 
 Adjust the configuration file
 
-	/usr/local/kafka/config/server1.properties. 
+	/usr/local/kafka/config/server1.properties 
 
 Launch zookeeper
 

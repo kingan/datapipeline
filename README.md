@@ -6,8 +6,6 @@ https://github.com/kingan/datapipeline
 
 Setup Kafka
 
-Initial Kafka Setup
-
 Download the tarball file
 
 	http://ftp.heanet.ie/mirrors/www.apache.org/dist/kafka/0.9.0.1/kafka-0.9.0.1-src.tgz

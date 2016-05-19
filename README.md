@@ -1,5 +1,5 @@
 # datapipeline
-This project focused on the setup and configuration of a data pipeline consisting of Kafka, Spark, and MongoDB.
+This project focused on the setup and configuration of a data pipeline consisting of Kafka, Python, and MongoDB.
 
 https://github.com/kingan/datapipeline
 
